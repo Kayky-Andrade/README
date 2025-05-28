@@ -1,6 +1,8 @@
 # Kayky Andrade
 
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="200" src="https://github.com/Kayky-Andrade/laboratorio-dio/blob/main/29045.jpg?raw=true">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="200" src="https://github.com/Kayky-Andrade/laboratorio-dio/blob/main/dashboard-concept-illustration.png?raw=true">
+
+
 
 
 ## Conecte-se comigo
