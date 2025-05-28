@@ -21,6 +21,6 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## GitHub Statu
+## GitHub Status
 
 ![GitHub stats](https://github-readme-stats-snowy-theta-i3lp710ofu.vercel.app/api?username=kayky-andrade&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=blue&text_color=FFF&border_radius=3&border_color=blue&icon_color=blue&theme=jolly)
